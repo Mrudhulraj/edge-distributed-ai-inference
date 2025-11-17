@@ -1,0 +1,4 @@
+grpcio==1.66.1
+grpcio-tools==1.66.1
+redis==5.0.1
+
